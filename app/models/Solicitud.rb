@@ -1,0 +1,1 @@
+class Solicitud < ActiveRecord::Base  self.table_name="solicitud"end

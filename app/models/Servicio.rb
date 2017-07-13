@@ -1,0 +1,1 @@
+class Servicio < ActiveRecord::Base  self.table_name = "servicio"end
